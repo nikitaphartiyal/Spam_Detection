@@ -98,7 +98,7 @@ Random Forest (Highest precision after Naive Bayes)
 
 Clone the repository:
 
-git clone https://github.com/your-username/spam-detection.git
+git clone https://github.com/nikitaphartiyal/spam-detection.git
 
 
 Install dependencies:
